@@ -1,0 +1,7 @@
+######### Weather report using python via API key ##########
+
+Python Libraries needed
+> requests
+
+> Generate the API key from "OpenWeather" and paste the API_KEY in the following code 
+> To find the Weather Rrport , enter the city name in the params along with API key and degree parameter (celcius , fahrenheit)
